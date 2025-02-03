@@ -1,2 +1,2 @@
 # Machine_Learning
-Some Machine Learning algorithms and metrics realized in python with sklearn package.
+Some Machine Learning algorithms and metrics implemented in python with sklearn package.
